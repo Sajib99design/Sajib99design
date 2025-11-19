@@ -5,18 +5,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Shojib+Sadh....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
-<div align="center">
-  <strong>Full Stack JavaScript ⚡ | JavaScript, TypeScript, React.js, Redux, Next.js, Node.js | Building Scalable Systems, Reusable UI Components & Robust Backends | Skilled in MongoDB, Prisma, PostgreSQL | Performance & Clean Code Advocate</strong>
-</div>
-<br/>
-
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sajib99design&color=red)
 
 </div>
-
+<div align="center">
+  <strong>Full Stack JavaScript ⚡ | JavaScript, TypeScript, React.js, Redux, Next.js, Node.js | Building Scalable Systems, Reusable UI Components & Robust Backends | Skilled in MongoDB, Prisma, PostgreSQL | Performance & Clean Code Advocate</strong>
+</div>
+<br/>
+<hr/>
 
 ### Talking about Personal Stuff:
 
