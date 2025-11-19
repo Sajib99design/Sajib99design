@@ -1,8 +1,9 @@
 ![I am Sajib99design](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm Shojib Ahmmed Sadh </h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">I'm Just learning </h4>
+<div align="center">
+  <strong>Full Stack JavaScript ⚡ | JavaScript, TypeScript, React.js, Redux, Next.js, Node.js | Building Scalable Systems, Reusable UI Components & Robust Backends | Skilled in MongoDB, Prisma, PostgreSQL | Performance & Clean Code Advocate</strong>
+</div>
+<br/>
 
 <div align="center">
 
