@@ -1,4 +1,5 @@
-![I am sojibSadh](https://i.ibb.co.com/Xrn8BMkX/Gemini-Generated-Image-yd94fyyd94fyyd94-1.png)
+![I am sojibSadh](https://i.ibb.co.com/ymgZZZqk/New-Project-2.png)
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
