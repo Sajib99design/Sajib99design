@@ -11,7 +11,7 @@
 
 </div>
 <div align="center">
-  <strong>Full Stack JavaScript ⚡ | JavaScript, TypeScript, React.js, Redux, Next.js, Node.js | Building Scalable Systems, Reusable UI Components & Robust Backends | Skilled in MongoDB, Prisma, PostgreSQL | Performance & Clean Code Advocate</strong>
+  <strong>Front-End Specialist ⚡ | JavaScript, TypeScript, React.js, Redux, Next.js, Node.js | Building Scalable Systems, Reusable UI Components & Robust Backends | Skilled in MongoDB, Prisma, PostgreSQL | Performance & Clean Code Advocate</strong>
 </div>
 <br/>
 <hr/>
