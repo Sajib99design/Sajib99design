@@ -47,7 +47,7 @@
 <a href="https://www.behance.net/Sajib99design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Sajib99design" height="30" width="40" /></a>
 </p>
 
-## Use To Code
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
