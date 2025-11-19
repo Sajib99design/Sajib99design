@@ -15,7 +15,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sajib99design&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+
 
 </div>
 
@@ -33,7 +33,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📄 All About Me:[https://google.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
 <a href="https://fb.com/SajeebMahmud99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SajeebMahmud99" height="30" width="40" /></a>
