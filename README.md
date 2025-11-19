@@ -24,9 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sajib99design](https://github.com/Sajib99design)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 📝 I regularly write articles on https://learn.programming-hero.com/
 
 - 📫 How to reach me **sajib99design@gmail.com**
 
